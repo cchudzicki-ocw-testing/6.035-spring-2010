@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the selected
+  lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -237,7 +239,7 @@ Parallelization
 Memory optimization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 30e968e7-054c-e553-8e85-15126a61967e "PDF - 2.5MB" %}})
+({{% resource_link 30e968e7-054c-e553-8e85-15126a61967e "PDF - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

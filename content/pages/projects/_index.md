@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the five projects for the course, recitation slides,
+  and supporting files. It also includes information on technical requirements, a
+  project overview, and a description of the Decaf language.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
